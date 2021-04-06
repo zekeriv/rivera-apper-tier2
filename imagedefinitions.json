@@ -1,6 +1,6 @@
 [
     {
-      "name": "ecrivera-tier2-container",
+      "name": "ecrivera-tier2-ecr",
       "imageUri": "329511059546.dkr.ecr.ap-southeast-1.amazonaws.com/erivera-tier2-ecr:latest"
     }
   ]
